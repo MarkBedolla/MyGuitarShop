@@ -1,7 +1,7 @@
 This SQL script contains multiple queries designed to extract and analyze data from a database named MyGuitarShop. 
 The queries focus on customer addresses, product details, order statistics, and sales analysis. Here’s a breakdown of the main sections:
 
-1. Customer Addresses
+1. Customer Addresses 
    - Retrieves customer addresses in a formatted manner.
    - The commented-out query includes customer names along with addresses by joining the Customers and Addresses tables.
 
